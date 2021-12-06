@@ -1,0 +1,44 @@
+body {
+    background-color: #FFFFFF;
+}
+
+#image-id {
+    width: 100%;
+}
+
+ul {
+    color: hsl(110, 29%, 52%);
+}
+
+.text-span {
+    font-size: smaller;
+}
+
+nav a {
+    text-decoration: none;
+    color: hsl(359, 79%, 56%);
+}
+
+nav a:hover {
+    color: greenyellow;
+}
+
+main a:visited {
+    color: hsl(122, 91%, 21%);
+}
+
+main a:hover {
+    color: greenyellow;
+}
+
+input[type="submit"] {
+    background-color: darkseagreen;
+}
+
+input[type="text"] {
+    outline-color: blue;
+}
+
+h1, h2, h3 {
+    font-family: "Noto Sans JP", sans-serif;
+}
